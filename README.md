@@ -1,6 +1,6 @@
 # Fast-and-Effective-Overwrite-Attack
 
-Source code of TMM's submission "Fast and Effective Overwrite Attack Against DNN-based Image Watermarking Models".
+Source code of **IEEE Transactions on Multimedia 2025** paper "Fast and Effective Overwrite Attack Against DNN-based Image Watermarking Models".
 
 ## Environment
 
